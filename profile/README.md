@@ -17,6 +17,10 @@ As-Salam Alaikum!!
  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </H1>
 
+<p align="center">
+  <img src="https://github.com/openweb3-foundation/.github/blob/main/profile/OpenWeb3Label.jpg" style="width:1300px" />
+</p>
+
 # I ❤️ Setheum Labs
 **Setheum Labs** is a consortium of 2 Labs responsible for *Blockchain Research and Development*, these Labs are **[@Slixon-Technologies](https://github.com/Slixon-Technologies)** and **[@openweb3-foundation](https://github.com/openweb3-foundation)**. 
 The Labs for building and maintaining our blockchain projects and our involvment in the blockchain ecosystem, particularly DeFi, Web3 Cloud, NFTs, etc. most especially in the *Setheum Ecosystem*.
