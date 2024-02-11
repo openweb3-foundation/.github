@@ -22,15 +22,6 @@ As-Salam Alaikum!!
 </p>
 
 # I ❤️ Setheum Labs
-**Setheum Labs** is a consortium of 2 Labs responsible for *Blockchain Research and Development*, these Labs are **[@Slixon-Technologies](https://github.com/Slixon-Technologies)** and **[@openweb3-foundation](https://github.com/openweb3-foundation)**. 
-The Labs for building and maintaining our blockchain projects and our involvment in the blockchain ecosystem, particularly DeFi, Web3 Cloud, NFTs, etc. most especially in the *Setheum Ecosystem*.
-
-### Organisations in Setheum Labs
-
-* [Khalifa](https://github.com/Khalifa-Blockchain): Setheum's Ethical DeFi Optimised Blockchain. By **[@Setheum-Labs](https://github.com/Setheum-Labs)**.
-* [OpenWeb3 Foundation](https://github.com/openweb3-foundation): Developing and Powering Open Web3 Internet Solutions, especially on Setheum.
-* [Setheum Labs](https://github.com/Setheum-Labs): Blockchain R&D Labs developing the Setheum Ecosystem. By **[@Slixon-Technologies](https://github.com/Slixon-Technologies)** and **[@openweb3-foundation](https://github.com/openweb3-foundation)**
-* [Slixon Technologies](https://github.com/Slixon-Technologies): "THINK IT? MAKE IT!" Powering Web3 Infrastructure. Stewards of [@Setheum-Labs](https://github.com/Setheum-Labs) & [@Khalifa-Blockchain](https://github.com/Khalifa-Blockchain). Supporting the #Setheum Ecosystem.
 
 <p align="center">  
 <img src='https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif' width='460"' height='250"'>
@@ -115,28 +106,13 @@ We love languages. and we love [Lanzhou Beef Noodles](https://en.wikipedia.org/w
 
 A collection of Setheum's Native Projects, Protocols et al. by Setheum Labs.
 
-### Core Projects (Consensus Protocols)
-
-* [DAGESTAN](https://github.com/Setheum-Labs/Dagestan): Setheum's Blockchain-DAG Consensus Engine.
-* [SIAL](https://github.com/Setheum-Labs/Sial): Setheum's bridging Protocol for cross-chain interoperability.
-* [STEEL](https://github.com/Setheum-Labs/Stem): Setheum's Trusted Execution Environment Computation Layer, giving birth to Subchains.
-
 ### Core Projects (Blockchains)
 * [Setheum](https://github.com/Setheum-Labs/Setheum): Powering Scalable Web3 Solutions. Setheum's EVM compatible Turing Complete L1 blockchain.
 * [OpenWeb3 Cloud](https://github.com/openweb3Cloud): Setheum's Decentralized Cloud Computing Subchain, a Layer-2 Blockchain Network.
 
 ### Core Projects ( Projects on the Setheum Network)
-* [Khalifa DeFi](https://github.com/Khalifa-DeFi): Setheum's Ethical DeFi Suite of Protocols.
-* [OpenWeb3 AI](https://github.com/openweb3AI): Setheum's AI Computation Suite.
-* [OpenWeb3 Cloud](https://github.com/openweb3Cloud): Setheum's Decentralized Cloud Computing Layer-2 Blockchain Network.
-
-### Smart Contracts (A-Z)
-
-* [Setheum's Predeploy Contracts](https://github.com/Setheum-Labs/predeploy-contracts): Setheum's EVM Predeploy Contracts.
-
-### Libraries 'n Frameworks (A-Z)
-
-* [SetheumJS Org](https://github.com/setheum-js): Setheum's JS Library Organization for JS related works, ie. Setheum.JS, Setters.JS, et al.
+* [EthicalDeFi](https://github.com/Setheum-Labs/EthicalDeFi): Setheum's Ethical DeFi Suite of Protocols.
+* [Setheum](https://github.com/Setheum-Labs/Setheum): The Setheum.
 
 ## Links 'n Websites (A-Z)
 
